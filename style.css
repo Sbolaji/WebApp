@@ -1,0 +1,120 @@
+*{
+    margin: 0%;
+    height: 100%;
+}
+
+.Background1{
+    background-image: url(TravelGOObg.jpg.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 130vh;
+}
+
+.container{
+   width: 1320px;
+   height: 100px;
+   display: flex;
+   align-items: center;
+   
+    
+}
+.item-1 {
+    
+    height: 35px;
+    width: 5px;
+    padding: 5%;
+    
+}
+
+.item-2 {
+    height: 2%;
+    width: 300px;
+    margin-left: 120px;
+    display: flex;
+    padding: 23%;
+}
+.link{
+       
+       color: #FFFFFF;
+       font-size: 12px;
+       font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+       padding-right: 10%;
+       width: 500px;
+
+}
+
+.item-3 {
+    
+    height: 25px;
+    width: 90px;
+    justify-content: space-between;
+    display: flex;
+    
+    
+}
+
+.herotext{
+    
+    height: 300px;
+    width: 700px;
+    margin: 10%;
+    margin-left: 20%;
+    padding-left: 5%;
+    padding-right: 5%;
+   
+    
+}
+
+.herotext-1{
+    
+    height:170px;
+    width: 700px;
+    font-family: sans-serif;
+    font-size: 30px;
+    font-weight: 1000;
+    line-height: 102.px;
+    text-align: center;
+    color:#FFFFFF;
+    
+    
+}
+
+.herotext-2{
+    
+    height: 70px;
+    width: 450px;
+    font-size: 18px;
+    text-align: center;
+    color:#FFFFFF; 
+    padding-left: 19%;
+    line-height: 21.79px;
+    text-decoration: none;
+}
+
+button{
+            
+            background-color: #00A651;
+            color: #FFFFFF;
+            width: 120px;
+            height: 50%;
+            border-radius: 10px;
+}
+
+.our-service{
+    border: 1px solid red;
+    height: 300px;
+    width: 133px;
+    background-color: #FFFFFF;
+    align-items: center;
+    padding: 0% 45%;
+}
+
+.ticket{
+    border:1px #00A651;
+    height: 100px;
+}
+    
+
+
+
+
